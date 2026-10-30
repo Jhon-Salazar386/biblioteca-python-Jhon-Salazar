@@ -1,6 +1,12 @@
 class Libro:
-    def __init__(self, codigo, titulo, autor, anio, categoria, codigo_de_socio=None):
-        self.codigo = codigo
+
+    contador_libros = 0
+
+    def __init__(self, titulo, autor, anio, categoria, codigo_de_socio=None):
+
+        self.__class__.contador_libros += 1
+        
+        self.codigo = self.contador_libros
         self.titulo = titulo
         self.autor = autor
         self.anio = anio
@@ -11,9 +17,9 @@ class Libro:
         return self.codigo_de_socio is None
 
     def __str__(self):
-        return (f"Libro: {self.codigo}\n"
+        return (f"Codigo de libro: {self.codigo}\n"
                 f"Titulo: {self.titulo}\n"
                 f"Autor: {self.autor}\n"
                 f"Año: {self.anio}\n"
                 f"Categoria: {self.categoria}\n"
-                f"Codigo de socio: {self.codigo_de_socio}")
+                f"Disponible: {self.esta_disponible()}\n")
