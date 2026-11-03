@@ -1,8 +1,21 @@
+from errores.libro_exception import LibroException
+
 class Libro:
 
     contador_libros = 0
 
     def __init__(self, titulo, autor, anio, categoria, codigo_de_socio=None):
+
+        try:
+            anio = int(anio)
+        except Exception:
+            raise LibroException("Campo anio debe ser un numero, Valor erroneo: ", anio)
+
+        if codigo_de_socio is not None:
+            try:
+                codigo_de_socio = int(codigo_de_socio)
+            except:
+                raise LibroException("Codigo de socio debe ser un id valido o None, Valor erroneo: ", codigo_de_socio)
 
         self.__class__.contador_libros += 1
         
