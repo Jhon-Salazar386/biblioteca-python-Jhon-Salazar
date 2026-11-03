@@ -1,0 +1,100 @@
+1;Don Quijote de la Mancha;Miguel de Cervantes;1605;Novela;None
+2;La Celestina;Fernando de Rojas;1499;Clasico;None
+3;El Hobbit;J.R.R. Tolkien;1937;Fantasia;S001
+4;1984;George Orwell;1949;Ciencia ficcion;None
+5;Cien años de soledad;Gabriel Garcia Marquez;1967;Realismo magico;None
+6;La sombra del viento;Carlos Ruiz Zafon;2001;Misterio;None
+7;Orgullo y prejuicio;Jane Austen;1813;Romance;None
+8;Crimen y castigo;Fiodor Dostoievski;1866;Novela;None
+9;El principito;Antoine de Saint Exupery;1943;Fantasia;None
+10;Fahrenheit 451;Ray Bradbury;1953;Ciencia ficcion;None
+11;La casa de Bernarda Alba;Federico Garcia Lorca;1936;Teatro;None
+12;Romeo y Julieta;William Shakespeare;1597;Romance;None
+13;Los miserables;Victor Hugo;1862;Clasico;None
+14;Dracula;Bram Stoker;1897;Terror;None
+15;Frankenstein;Mary Shelley;1818;Terror;None
+16;El codigo Da Vinci;Dan Brown;2003;Thriller;None
+17;El nombre de la rosa;Umberto Eco;1980;Misterio;None
+18;La metamorfosis;Franz Kafka;1915;Clasico;None
+19;El retrato de Dorian Gray;Oscar Wilde;1890;Clasico;None
+20;Matar a un ruiseñor;Harper Lee;1960;Novela;None
+21;El alquimista;Paulo Coelho;1988;Filosofia;None
+22;La isla del tesoro;Robert Louis Stevenson;1883;Aventuras;None
+23;Viaje al centro de la Tierra;Julio Verne;1864;Aventuras;None
+24;Veinte mil leguas de viaje submarino;Julio Verne;1870;Aventuras;None
+25;El diario de Ana Frank;Ana Frank;1947;Biografia;None
+26;Los juegos del hambre;Suzanne Collins;2008;Ciencia ficcion;None
+27;En llamas;Suzanne Collins;2009;Ciencia ficcion;None
+28;Sinsajo;Suzanne Collins;2010;Ciencia ficcion;None
+29;Harry Potter y la piedra filosofal;J.K. Rowling;1997;Fantasia;None
+30;Harry Potter y la camara secreta;J.K. Rowling;1998;Fantasia;None
+31;Harry Potter y el prisionero de Azkaban;J.K. Rowling;1999;Fantasia;None
+32;Harry Potter y el caliz de fuego;J.K. Rowling;2000;Fantasia;None
+33;Harry Potter y la orden del fenix;J.K. Rowling;2003;Fantasia;None
+34;Harry Potter y el misterio del principe;J.K. Rowling;2005;Fantasia;None
+35;Harry Potter y las reliquias de la muerte;J.K. Rowling;2007;Fantasia;None
+36;El señor de los anillos;J.R.R. Tolkien;1954;Fantasia;None
+37;Las dos torres;J.R.R. Tolkien;1954;Fantasia;None
+38;El retorno del rey;J.R.R. Tolkien;1955;Fantasia;None
+39;Juego de tronos;George R.R. Martin;1996;Fantasia;None
+40;Choque de reyes;George R.R. Martin;1998;Fantasia;None
+41;Tormenta de espadas;George R.R. Martin;2000;Fantasia;None
+42;El camino de los reyes;Brandon Sanderson;2010;Fantasia;None
+43;El imperio final;Brandon Sanderson;2006;Fantasia;None
+44;Elantris;Brandon Sanderson;2005;Fantasia;None
+45;Dune;Frank Herbert;1965;Ciencia ficcion;None
+46;Fundacion;Isaac Asimov;1951;Ciencia ficcion;None
+47;Yo robot;Isaac Asimov;1950;Ciencia ficcion;None
+48;Neuromante;William Gibson;1984;Ciencia ficcion;None
+49;Un mundo feliz;Aldous Huxley;1932;Ciencia ficcion;None
+50;El juego de Ender;Orson Scott Card;1985;Ciencia ficcion;None
+51;La carretera;Cormac McCarthy;2006;Distopia;None
+52;Ensayo sobre la ceguera;Jose Saramago;1995;Novela;None
+53;El amor en los tiempos del colera;Gabriel Garcia Marquez;1985;Romance;None
+54;Rayuela;Julio Cortazar;1963;Novela;None
+55;Pedro Paramo;Juan Rulfo;1955;Novela;None
+56;La ciudad y los perros;Mario Vargas Llosa;1963;Novela;None
+57;El tunel;Ernesto Sabato;1948;Novela;None
+58;Nada;Carmen Laforet;1945;Novela;None
+59;Los pazos de Ulloa;Emilia Pardo Bazan;1886;Clasico;None
+60;Fortunata y Jacinta;Benito Perez Galdos;1887;Clasico;None
+61;La Regenta;Leopoldo Alas Clarin;1884;Clasico;None
+62;Platero y yo;Juan Ramon Jimenez;1914;Poesia;None
+63;Romancero gitano;Federico Garcia Lorca;1928;Poesia;None
+64;El guardador de rebaños;Fernando Pessoa;1925;Poesia;None
+65;La Odisea;Homero;-700;Clasico;None
+66;La Iliada;Homero;-750;Clasico;None
+67;La divina comedia;Dante Alighieri;1320;Clasico;None
+68;Hamlet;William Shakespeare;1603;Teatro;None
+69;Macbeth;William Shakespeare;1606;Teatro;None
+70;La vida es sueño;Pedro Calderon de la Barca;1635;Teatro;None
+71;El perro del hortelano;Lope de Vega;1618;Teatro;None
+72;La casa de los espiritus;Isabel Allende;1982;Realismo magico;None
+73;Paula;Isabel Allende;1994;Biografia;None
+74;Los detectives salvajes;Roberto Bolaño;1998;Novela;None
+75;2666;Roberto Bolaño;2004;Novela;None
+76;El psicoanalista;John Katzenbach;2002;Thriller;None
+77;La chica del tren;Paula Hawkins;2015;Misterio;None
+78;Perdida;Gillian Flynn;2012;Thriller;None
+79;El silencio de los corderos;Thomas Harris;1988;Thriller;None
+80;Asesinato en el Orient Express;Agatha Christie;1934;Misterio;None
+81;Diez negritos;Agatha Christie;1939;Misterio;None
+82;El sabueso de los Baskerville;Arthur Conan Doyle;1902;Misterio;None
+83;Estudio en escarlata;Arthur Conan Doyle;1887;Misterio;None
+84;La vuelta al mundo en ochenta dias;Julio Verne;1872;Aventuras;None
+85;Miguel Strogoff;Julio Verne;1876;Aventuras;None
+86;Colmillo blanco;Jack London;1906;Aventuras;None
+87;La llamada de lo salvaje;Jack London;1903;Aventuras;None
+88;Mujercitas;Louisa May Alcott;1868;Novela;None
+89;Heidi;Johanna Spyri;1881;Infantil;None
+90;Alicia en el pais de las maravillas;Lewis Carroll;1865;Fantasia;None
+91;Matilda;Roald Dahl;1988;Infantil;None
+92;Charlie y la fabrica de chocolate;Roald Dahl;1964;Infantil;None
+93;El libro de la selva;Rudyard Kipling;1894;Aventuras;None
+94;Peter Pan;J.M. Barrie;1911;Fantasia;None
+95;El mago de Oz;L. Frank Baum;1900;Fantasia;None
+96;El curioso caso de Benjamin Button;F. Scott Fitzgerald;1922;Fantasia;None
+97;El gran Gatsby;F. Scott Fitzgerald;1925;Novela;None
+98;Moby Dick;Herman Melville;1851;Aventuras;None
+99;La llamada de Cthulhu;H.P. Lovecraft;1928;Terror;None
+100;El color que cayo del cielo;H.P. Lovecraft;1927;Terror;None
