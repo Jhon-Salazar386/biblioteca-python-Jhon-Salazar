@@ -1,8 +1,16 @@
+from errores.socio_exception import SocioException
+
 class Socio:
 
     contador_socios = 0
 
     def __init__(self, nombre, email, codigo_libro_prestado = None):
+
+        if(codigo_libro_prestado is not None):
+            try:
+                codigo_libro_prestado = int(codigo_libro_prestado)
+            except ValueError:
+                raise SocioException("Codigo de libro prestado debe ser un numero, valor erroneo: ", codigo_libro_prestado)
         
         self.__class__.contador_socios += 1
         
@@ -18,4 +26,4 @@ class Socio:
         return (f"Codigo de socio: {self.codigo}\n"
                 f"Nombre: {self.nombre}\n"
                 f"Email: {self.email}\n"
-                f"Codigo libro prestado: {self.codigo_libro_prestado or "Sin libro"}\n")
+                f"Codigo libro prestado: {self.codigo_libro_prestado or 'Sin libro'}\n")
