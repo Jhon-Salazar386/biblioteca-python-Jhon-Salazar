@@ -12,6 +12,11 @@ El programa ofrece las siguientes opciones:
 - Devolver libro: Permite devolver un libro prestado por un socio.
 - Mostrar préstamos: Muestra los préstamos registrados actualmente.
 - Añadir libro o socio: Permite registrar nuevos libros y socios en la biblioteca.
+
+## Posibles mejoras en el repositorio
+  - Que la opcion de añadir socio solo permita añadir un email valido(con su respectivo formato)
+  - Una interfaz interactiva con la que se pueda gestionar la biblioteca
+  - Cambiar el como se guardan los datos, pasando de ser simples .txt a una base de datos
   
 ## Ejecución
 Para ejecutar el programa, inicia el archivo principal desde la terminal:
