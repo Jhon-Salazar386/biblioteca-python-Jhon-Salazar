@@ -20,3 +20,5 @@ El programa ofrece las siguientes opciones:
   
 ## Ejecución
 Para ejecutar el programa, inicia el archivo principal desde la terminal:
+
+## [Video demostrativo de las funcionalidades](https://drive.google.com/file/d/1ZBKyLOYRbQodz0HtrxotRm-flLDpBDBn/view?usp=drive_link)
