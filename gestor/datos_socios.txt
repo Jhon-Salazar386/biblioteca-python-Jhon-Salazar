@@ -1,0 +1,15 @@
+1;Carlos Garcia;carlos.garcia@gmail.com;3
+2;Ana Lopez;ana.lopez@gmail.com;10
+3;Maria Fernandez;maria.fernandez@gmail.com;15
+4;David Martinez;david.martinez@gmail.com;29
+5;Laura Sanchez;laura.sanchez@gmail.com;45
+6;Pablo Rodriguez;pablo.rodriguez@gmail.com;None
+7;Elena Torres;elena.torres@gmail.com;None
+8;Javier Moreno;javier.moreno@gmail.com;None
+9;Lucia Romero;lucia.romero@gmail.com;None
+10;Daniel Navarro;daniel.navarro@gmail.com;None
+11;Sofia Ruiz;sofia.ruiz@gmail.com;None
+12;Alejandro Martin;alejandro.martin@gmail.com;None
+13;Paula Jimenez;paula.jimenez@gmail.com;None
+14;Adrian Hernandez;adrian.hernandez@gmail.com;None
+15;Claudia Diaz;claudia.diaz@gmail.com;None
